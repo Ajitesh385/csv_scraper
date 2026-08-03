@@ -1,5 +1,10 @@
 # S&P 500 CSV Scraper
 
+
+Give me this job bruhhhhhhh
+
+
+
 A lightweight script that fetches the [S&P 500 constituents CSV](https://github.com/datasets/s-and-p-500-companies) and displays **Company Name**, **Headquarters Location**, and **Founding Year** — sorted by year.
 
 ## Quick Start
